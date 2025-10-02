@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {
+      "name": "Jessica Day",
+      "nickname": "Jess",
+      "bio": "A quirky, upbeat, and optimistic school teacher who moves into a loft with three guys after a tough breakup. Known for her unique fashion sense, enthusiasm, and sometimes awkward social skills."
+    },
+    {
+      "name": "Nick Miller",
+      "bio": "A grumpy yet lovable bartender with a cynical view on life. He is often sarcastic and stubborn but deeply caring to those close to him. He struggles with ambition but is fiercely loyal."
+    },
+    {
+      "name": "Schmidt",
+      "full_name": "Winston Schmidt",
+      "bio": "An ambitious, confident, and sometimes over-the-top marketing professional. He often displays a blend of vanity and insecurity, with a passionate desire to improve himself and his social standing."
+    },
+    {
+      "name": "Winston Bishop",
+      "bio": "A former basketball player turned police officer. Winston is quirky, sweet, and often exhibits bizarre but endearing behavior. He has a love for pranks and a soft spot for animals."
+    },
+    {
+      "name": "Cece Parekh",
+      "bio": "Jess’s best friend, a confident and glamorous model who often provides a grounded contrast to Jess’s eccentricity. She is smart, independent, and has a complicated romantic history with Schmidt."
+    }
+  ]
+}
